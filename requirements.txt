@@ -1,8 +1,8 @@
 bentoml
-torchvision
+torchvison
 joblib
 tqdm
 pip-chill
 wincertstore
 
-##-e .
+-e .

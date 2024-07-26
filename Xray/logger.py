@@ -1,7 +1,7 @@
 import logging
 import os
 
-from Xray.constant.training_pipeline import TIMESTAMP
+from Xray.constant.taining_pipline import TIMESTAMP
 
 LOG_FILE: str = f"{TIMESTAMP}.log"
 
